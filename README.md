@@ -104,22 +104,70 @@ Here are our top current sponsors. Please click through to see their websites,
 and support them as they support us. 
 
 <!--- See https://github.com/orgs/kivy/discussions/15 for explanation of this code. -->
-<a href="https://opencollective.com/kivy/sponsor/0/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/1/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/2/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/3/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/3/avatar.svg"></a>
+<!-- See https://github.com/orgs/kivy/discussions/15 for explanation of this code. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kivy Sponsors</title>
+</head>
+<body>
 
-<a href="https://opencollective.com/kivy/sponsor/4/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/5/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/6/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/7/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/7/avatar.svg"></a>
+    <h1>Kivy Sponsors</h1>
 
-<a href="https://opencollective.com/kivy/sponsor/8/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/9/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/10/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/10/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/11/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/11/avatar.svg"></a>
+    <p>Support Kivy by becoming a sponsor. Click on a sponsor below to learn more.</p>
 
-<a href="https://opencollective.com/kivy/sponsor/12/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/12/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/13/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/13/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/14/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/14/avatar.svg"></a>
-<a href="https://opencollective.com/kivy/sponsor/15/website" target="_blank"><img src="https://opencollective.com/kivy/sponsor/15/avatar.svg"></a>
+    <div>
+        <a href="https://opencollective.com/kivy/sponsor/0/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/0/avatar.svg" alt="Kivy Sponsor 0">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/1/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/1/avatar.svg" alt="Kivy Sponsor 1">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/2/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/2/avatar.svg" alt="Kivy Sponsor 2">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/3/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/3/avatar.svg" alt="Kivy Sponsor 3">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/4/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/4/avatar.svg" alt="Kivy Sponsor 4">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/5/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/5/avatar.svg" alt="Kivy Sponsor 5">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/6/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/6/avatar.svg" alt="Kivy Sponsor 6">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/7/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/7/avatar.svg" alt="Kivy Sponsor 7">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/8/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/8/avatar.svg" alt="Kivy Sponsor 8">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/9/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/9/avatar.svg" alt="Kivy Sponsor 9">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/10/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/10/avatar.svg" alt="Kivy Sponsor 10">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/11/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/11/avatar.svg" alt="Kivy Sponsor 11">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/12/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/12/avatar.svg" alt="Kivy Sponsor 12">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/13/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/13/avatar.svg" alt="Kivy Sponsor 13">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/14/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/14/avatar.svg" alt="Kivy Sponsor 14">
+        </a>
+        <a href="https://opencollective.com/kivy/sponsor/15/website" target="_blank" rel="noopener noreferrer">
+            <img src="https://opencollective.com/kivy/sponsor/15/avatar.svg" alt="Kivy Sponsor 15">
+        </a>
+    </div>
+
+</body>
+</html>
